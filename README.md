@@ -1,6 +1,6 @@
 # Hi there,  my name is Jun Jie
 
-- 👨‍🎓 A year 2 undergraduate student studying Software Engineering in Singapore Institute of Technology (SIT)
+- 👨‍🎓 A year 3 undergraduate student studying Software Engineering in Singapore Institute of Technology (SIT)
 - 📫 How to reach me **gohjunjie72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
