@@ -1,6 +1,6 @@
-# Hi there,  my name is Jun Jie
+# Hi there 👋,  my name is Jun Jie
 
-- 👨‍🎓 A year 3 undergraduate student studying Software Engineering in Singapore Institute of Technology (SIT)
+- 👨‍🎓 Graduated with a Bachelor's degree in Software Engineering. (SIT)
 - 📫 How to reach me **gohjunjie72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -10,13 +10,20 @@
 
 
 
-## Languages and Tools
-[![Java Badge](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=Java&logoColor=007396)](#)
-[![CSharp Badge](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&labelColor=black&logo=CSharp&logoColor=239120)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
-[![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&labelColor=black&logo=PHP&logoColor=777BB4)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)](#)
+## Languages
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
- ---
+## Backend Development
+ <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+
+## Database
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+## Automation
+<img src="https://github.com/microsoft/playwright.dev/blob/main/static/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 
 
